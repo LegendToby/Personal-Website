@@ -1,3 +1,24 @@
 body{
-    background-color: blue;
+    margin: 0;
 }
+
+h1{
+    margin-top: 0;
+}
+
+.Top{
+    background-color: #CCD5AE;
+}
+
+.Middle{
+    background-color: #E9EDC9;
+    height: 200px;
+    width: 200px;
+}
+
+.Bottom{
+    background-color: #FEFAE0;
+    height: 200px;
+    width: 200px;
+}
+
