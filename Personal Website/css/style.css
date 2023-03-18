@@ -2,7 +2,6 @@ body{
     margin: 0;
     text-align: center;
     font-family: 'EB Garamond', serif;
-    font-style: italic;
 }
 
 h1{
@@ -26,15 +25,11 @@ h3{
 }
 
 .Middle{
-    background-color: #E9EDC9;
-    height: 200px;
-    width: 200px;
+    padding-top: 100px;
 }
 
 .Bottom{
-    background-color: #FEFAE0;
-    height: 200px;
-    width: 200px;
+    padding-top: 100px;
 }
 
 .developer-info{
@@ -54,5 +49,16 @@ h3{
 }
 
 .img-background{
+    padding-top: 100px;
+}
+
+.profile-image{
+    position: relative;
+    top: 50px;
+    width: 200px;
+    border-radius: 200px;
+}
+
+.contact-me{
     padding-top: 100px;
 }
